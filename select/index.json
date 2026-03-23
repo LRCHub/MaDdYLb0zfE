@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Now or Never",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-03-23T14:07:57.173385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "The Roots feat. Phonte & Dice Raw",
+      "has_synced": true,
+      "path": "select/01_Now_Or_Never_The_Roots_feat._Phonte_&_Dice_Raw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now Or Never (Feat. Phonte & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/02_Now_Or_Never_(Feat._Phonte_&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's Now or Never",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_It's_Now_or_Never_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Now or Never",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/04_Now_or_Never_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/05_Now_Or_Never_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/06_Now_Or_Never_Chicane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Natalie Walker",
+      "has_synced": false,
+      "path": "select/07_Now_Or_Never_Natalie_Walker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Now or Never",
+      "artist": "Quantic feat. Alice Russell",
+      "has_synced": true,
+      "path": "select/08_Now_or_Never_Quantic_feat._Alice_Russell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Now or Never Now",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/09_Now_or_Never_Now_Metric.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Now or Never (Hope in the Darkest Hour)",
+      "artist": "Doro",
+      "has_synced": true,
+      "path": "select/10_Now_or_Never_(Hope_in_the_Darkest_Hour)_Doro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Stream of Passion",
+      "has_synced": true,
+      "path": "select/11_Now_Or_Never_Stream_of_Passion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Halsey",
+      "has_synced": true,
+      "path": "select/12_Now_Or_Never_Halsey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Now or Never",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/13_Now_or_Never_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/14_Now_Or_Never_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Now Or Never",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/15_Now_Or_Never_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's Now or Never",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/16_It's_Now_or_Never_Pino_Daniele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Now or Never",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_Now_or_Never_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
